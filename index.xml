@@ -6,11 +6,11 @@
     <description>Recent content in Eddie Tu&#39;s Website on Eddie Tu, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 12:00:59 -0400</lastBuildDate><atom:link href="https://eddie-dos.github.io/eddie_tu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 12:00:59 -0400</lastBuildDate><atom:link href="https://eddie-dos.github.io/eddie_tu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project RattleCam - online interactive platform</title>
       <link>https://eddie-dos.github.io/eddie_tu/post/project-7/</link>
-      <pubDate>Mon, 28 Nov 2022 12:00:59 -0400</pubDate>
+      <pubDate>Mon, 23 Jan 2023 12:00:59 -0400</pubDate>
       
       <guid>https://eddie-dos.github.io/eddie_tu/post/project-7/</guid>
       <description>Collaborators: Dr. Scott Boback (Dickinson College), Dr. Emily Taylor (Cal Poly), Dzung Dinh (Dickinson College)
@@ -23,7 +23,7 @@ General Project Description: Project RattleCam is a community science project cr
       <pubDate>Mon, 28 Nov 2022 12:00:58 -0400</pubDate>
       
       <guid>https://eddie-dos.github.io/eddie_tu/post/project-6/</guid>
-      <description>Collaborators: Dr. Scott Boback (Dickinson College), Dr. Emily Taylor (Cal Poly), Brandon Kong (Cal Poly)
+      <description>Collaborators: Dr. Scott Boback (Dickinson College), Dr. Emily Taylor (Cal Poly), Brandon Kong (Cal Poly), Ryan Singer (Cal Poly)
 General Project Description: Project RattleCam is a community science project created to help study and to educate the public about Prairie Rattlesnakes. Educating the public on these often maligned creatures is vital work towards the conservation of snakes, which play a crucial role in the balance of their ecosystems. The project has curated more than 60,000 photos of these snakes using remotely-deployed cameras.</description>
     </item>
     
@@ -55,7 +55,7 @@ General Project Description: Project RattleCam is a community science project cr
       <guid>https://eddie-dos.github.io/eddie_tu/post/project-3/</guid>
       <description>Collaborators: Tim Wickard
 Description:
-This project was done as consulting work for a manufacturing plant which had a vast amount of process data from their plant&amp;rsquo;s sensor network (data have been anonymized here). The goal was to build a model to detect anomalies in the data that could contribute to defects in the produced membranes. We used Principal Component Analysis (PCA) to find anomalous data and learn which features in the sensor network contributed the most to this anomalous behavior.</description>
+This project was done as consulting work for a manufacturing plant which had a vast amount of process data from their plant&amp;rsquo;s sensor network (data have been anonymized here). The goal was to build a model to detect anomalies in the data that could contribute to defects in the manufactured extruded multi-ply plastic sheet material. We used Principal Component Analysis (PCA) to find anomalous data and learn which features in the sensor network contributed the most to this anomalous behavior.</description>
     </item>
     
     <item>
